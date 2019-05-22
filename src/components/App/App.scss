@@ -1,0 +1,17 @@
+@import '../../stylesheets/variables';
+
+.App {
+  background: #eee;
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: $title_font;
+  }
+
+  .resume {
+    background: #fff;
+    margin: auto;
+    width: $a4_width - ($a4_bleeding * 2);
+    padding: $a4_bleeding;
+    font-family: $body_font;
+  }
+}
