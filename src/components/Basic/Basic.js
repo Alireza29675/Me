@@ -4,7 +4,11 @@ import './Basic.scss'
 export default class Basic extends React.Component {
 
     render () {
-        return (<header></header>)
+        return (
+            <header className="Basic">
+                Alireza Sheikholmolouki
+            </header>
+        )
     }
 
 }

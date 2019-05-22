@@ -1,0 +1,28 @@
+{
+    "name": "Alireza",
+    "lastname": "Sheikholmolouki",
+    "phoneNumber": "+989120563900",
+    "email": "alireza.sheikholmolouki@gmail.com",
+    "summary": "Solution-Driven Senior Front-end Developer with 11+ years of programming and 7+ years of experience leveraging JavaScript to build creative web-applications, websites, and interactive features that drive business growth and improve UX.",
+    "birthday": {
+        "year": 1996,
+        "month": 9,
+        "day": 19
+    },
+    "livesIn": {
+        "city": "Karaj",
+        "country": "Iran"
+    },
+    "origin": {
+        "city": "Hamadan",
+        "country": "Iran"
+    },
+    "links": {
+        "linkedin": "https://linkedin.com/in/alireza-sheikholmolouki/",
+        "twitter": "https://twitter.com/Alireza29675"
+    },
+    "skills": [],
+    "experiences": [],
+    "honors": [],
+    "education": []
+}
