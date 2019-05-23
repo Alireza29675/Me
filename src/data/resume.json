@@ -23,7 +23,16 @@
     },
     "skills": [],
     "experiences": [],
-    "honors": [],
+    "honors": [
+        {
+            "title": "Member of \"National Talent Foundation\"",
+            "year": 2014,
+            "location": {
+                "country": "Iran"
+            },
+            "description": "Achieved membership of \"National Talent Foundation\" when I achieved first-rank of Iran in Worldskills Competition"
+        }
+    ],
     "education": [
         {
             "name": "Shiraz University of Science and Technology",
