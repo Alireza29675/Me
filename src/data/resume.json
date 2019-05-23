@@ -24,5 +24,45 @@
     "skills": [],
     "experiences": [],
     "honors": [],
-    "education": []
+    "education": [
+        {
+            "name": "Shiraz University of Science and Technology",
+            "location": {
+                "city": "Shiraz",
+                "country": "Iran"
+            },
+            "span": {
+                "from": 2017,
+                "to": 2021
+            },
+            "field": "Software Engineering",
+            "degree": "Bachelor Degree"
+        },
+        {
+            "name": "Azad University Of Karaj",
+            "location": {
+                "city": "Karaj",
+                "country": "Iran"
+            },
+            "span": {
+                "from": 2014,
+                "to": 2017
+            },
+            "field": "Information Technology",
+            "degree": "Bachelor Degree"
+        },
+        {
+            "name": "NODET high-school (National Organization for Development of Exceptional Talents)",
+            "location": {
+                "city": "Karaj",
+                "country": "Iran"
+            },
+            "span": {
+                "from": 2007,
+                "to": 2014
+            },
+            "field": "Mathematics and Physics",
+            "degree": "Diploma"
+        }
+    ]
 }
