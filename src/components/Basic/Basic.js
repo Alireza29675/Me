@@ -1,12 +1,34 @@
 import React from 'react';
 import './Basic.scss'
+import md5 from 'md5'
+
+import resume from '../../data/resume.json'
 
 export default class Basic extends React.Component {
 
+    constructor (props) {
+        super(props)
+        this.state = {
+            avatar: `https://www.gravatar.com/avatar/${md5(resume.email)}?s=500`
+        }
+    }
+
     render () {
+        const { avatar } = this.state;
+
         return (
             <header className="Basic">
-                Alireza Sheikholmolouki
+                <div className="Basic__left">
+                    <img src={avatar} />
+                </div>
+                <div className="Basic__right">
+                    <h2 className="name">{resume.name} {resume.lastname}</h2>
+                    <em className="location">{resume.location.city}, {resume.location.country}</em>
+                    <span><b>Phone: </b><a href={`tel: ${resume.phoneNumber}`}>{resume.phoneNumber}</a></span>
+                    <span><b>Email: </b><a href={`mailto: ${resume.email}`}>{resume.email}</a></span>
+                    <span><b>Date of Birth: </b>{resume.birthday.year}/{resume.birthday.month}/{resume.birthday.day}</span>
+                    <span><b>Linkedin: </b><a href={resume.links.linkedin}>{resume.links.linkedin}</a></span>
+                </div>
             </header>
         )
     }

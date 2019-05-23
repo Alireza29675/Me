@@ -1,1 +1,26 @@
-@import '../../stylesheets/variables'
+@import '../../stylesheets/variables';
+
+.Basic {
+    display: flex;
+    padding: 1cm;
+
+    &__left {
+        padding-right: 1cm;
+        width: 6cm;
+
+        img {
+            width: 100%;
+            border-radius: 10px;
+        }
+    }
+
+    &__right {
+        font-size: 1.2em;
+        display: flex;
+        flex-direction: column;
+
+        * {
+            margin-bottom: 0.15cm;
+        }
+    }
+}
