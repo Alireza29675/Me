@@ -15,14 +15,15 @@ export default class Basic extends React.Component {
 
     render () {
         const { avatar } = this.state;
+        const fullName = `${resume.name} ${resume.lastname}`;
 
         return (
             <header className="Basic">
                 <div className="Basic__left">
-                    <img src={avatar} />
+                    <img src={avatar} alt={fullName} />
                 </div>
                 <div className="Basic__right">
-                    <h2 className="name">{resume.name} {resume.lastname}</h2>
+                    <h2 className="name">{fullName}</h2>
                     <em className="location">{resume.location.city}, {resume.location.country}</em>
                     <span><b>Phone: </b><a href={`tel: ${resume.phoneNumber}`}>{resume.phoneNumber}</a></span>
                     <span><b>Email: </b><a href={`mailto: ${resume.email}`}>{resume.email}</a></span>
