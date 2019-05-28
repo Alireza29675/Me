@@ -1,9 +1,14 @@
 import React from 'react';
 import './style.scss';
 
-import Basic from '../Basic';
-import Summary from '../Summary';
-import Education from '../Education';
+import resume from '../../data/resume.json'
+
+import Basic from './Basic';
+import Summary from './Summary';
+import Experiences from './Experiences';
+import Education from './Education';
+
+window.resume = resume;
 
 function App() {
   return (
@@ -12,6 +17,7 @@ function App() {
         <Basic />
         <Summary />
         <hr />
+        <Experiences />
         <Education />
       </div>
     </div>

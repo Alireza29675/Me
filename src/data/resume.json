@@ -22,10 +22,130 @@
         "twitter": "https://twitter.com/Alireza29675"
     },
     "skills": [],
-    "experiences": [],
+    "experiences": [{
+        "title": "Software Developer",
+        "company": "Theatre.js",
+        "span": {
+            "from": "Nov 2018",
+            "to": "Present"
+        },
+        "location": "Helsinki Area, Finland",
+        "description": "",
+        "hidden": false,
+        "highlight": false
+    }, {
+        "title": "Open-Source Developer",
+        "company": "Open Source Projects",
+        "span": {
+            "from": "Nov 2007",
+            "to": "Present"
+        },
+        "location": "Everywhere",
+        "description": "",
+        "hidden": false,
+        "highlight": false
+    }, {
+        "title": "Senior Representative",
+        "company": "HackaGlobal",
+        "span": {
+            "from": "Jun 2017",
+            "to": "Dec 2018"
+        },
+        "location": "Iran",
+        "description": "",
+        "hidden": false,
+        "highlight": false
+    }, {
+        "title": "Co-Founder",
+        "company": "HackaIran",
+        "span": {
+            "from": "Jun 2017",
+            "to": "Dec 2018"
+        },
+        "location": "Iran",
+        "description": "",
+        "hidden": false,
+        "highlight": false
+    }, {
+        "title": "Progamming Teacher",
+        "company": "Kabiri Computer Institute",
+        "span": {
+            "from": "Nov 2014",
+            "to": "Sep 2018"
+        },
+        "location": "Karaj",
+        "description": "",
+        "hidden": false,
+        "highlight": false
+    }, {
+        "title": "Teacher",
+        "company": "Tehran Institute of Technology",
+        "span": {
+            "from": "Apr 2017",
+            "to": "Jan 2018"
+        },
+        "location": "Iran, Karaj",
+        "description": "",
+        "hidden": false,
+        "highlight": false
+    }, {
+        "title": "Graphic Designer",
+        "company": "Khaak Group",
+        "span": {
+            "from": "May 2012",
+            "to": "Sep 2016"
+        },
+        "location": "Karaj",
+        "description": "",
+        "hidden": false,
+        "highlight": false
+    }, {
+        "title": "Javascript Expert",
+        "company": "Fiction Team",
+        "span": {
+            "from": "Mar 2014",
+            "to": "Jan 2015"
+        },
+        "location": "Tehran",
+        "description": "",
+        "hidden": false,
+        "highlight": false
+    }, {
+        "title": "Teacher",
+        "company": "Sampad (NODET)",
+        "span": {
+            "from": "Apr 2013",
+            "to": "Mar 2014"
+        },
+        "location": "Sampad Karaj High School",
+        "description": "",
+        "hidden": false,
+        "highlight": false
+    }, {
+        "title": "UI/UX Designer",
+        "company": "Maahe Taabaan",
+        "span": {
+            "from": "2013",
+            "to": "2014"
+        },
+        "location": "Tehran",
+        "description": "",
+        "hidden": false,
+        "highlight": false
+    }, {
+        "title": "IT Manager",
+        "company": "Huger",
+        "span": {
+            "from": "2012",
+            "to": "2014"
+        },
+        "location": "Karaj - Sampad High School",
+        "description": "",
+        "hidden": false,
+        "highlight": false
+    }],
     "honors": [],
-    "education": [
-        {
+    "education": [{
             "name": "Shiraz University of Science and Technology",
             "location": {
                 "city": "Shiraz",
@@ -36,7 +156,9 @@
                 "to": 2021
             },
             "field": "Software Engineering",
-            "degree": "Bachelor Degree"
+            "degree": "Bachelor Degree",
+            "hidden": false,
+            "highlight": false
         },
         {
             "name": "Azad University Of Karaj",
@@ -49,7 +171,9 @@
                 "to": 2017
             },
             "field": "Information Technology",
-            "degree": "Bachelor Degree"
+            "degree": "Bachelor Degree",
+            "hidden": false,
+            "highlight": false
         },
         {
             "name": "NODET high-school (National Organization for Development of Exceptional Talents)",
@@ -62,7 +186,9 @@
                 "to": 2014
             },
             "field": "Mathematics and Physics",
-            "degree": "Diploma"
+            "degree": "Diploma",
+            "hidden": false,
+            "highlight": false
         }
     ]
 }
