@@ -17,11 +17,105 @@
         "city": "Hamadan",
         "country": "Iran"
     },
+    "languages": [
+        "English",
+        "Persian"
+    ],
     "links": {
         "linkedin": "https://linkedin.com/in/alireza-sheikholmolouki/",
         "twitter": "https://twitter.com/Alireza29675"
     },
-    "skills": [],
+    "skills": {
+        "Techologies": [
+            {
+                "name": "Front-end Development Technologies",
+                "level": "advanced",
+                "description": "Combining HTML/JSX, SASS, Webpack and SVG all in advance level"
+            },
+            {
+                "name": "Javascript",
+                "level": "advanced",
+                "description": "Worked more than 6 years with JavaScript in fields of Front-end, Back-end and Internet of Things"
+            },
+            {
+                "name": "React.js",
+                "level": "advanced",
+                "description": "Worked advanced with Typescript and Redux"
+            },
+            {
+                "name": "Node.js",
+                "level": "advanced",
+                "description": "Also worked with many libraries of Node.js and have more than 10 libraries in npm"
+            },
+            {
+                "name": "MongoDB",
+                "level": "intermediate",
+                "description": "Worked also with ORMs such as Mongoose in real projects"
+            },
+            {
+                "name": "Three.js",
+                "level": "intermediate",
+                "description": "Created at least 3 creative projects with Three.js for art communities and industries"
+            },
+            {
+                "name": "React Native",
+                "level": "intermediate",
+                "description": "Know about concepts in practice, made few projects but they hadn't real-use in industry"
+            },
+            {
+                "name": "Git",
+                "level": "intermediate",
+                "description": "Worked in scale of doing ordinary contributions and team-work stuff."
+            },
+            {
+                "name": "Socket.io",
+                "level": "intermediate",
+                "description": "Made several apps and tools with it"
+            }
+        ],
+        "Media": [
+            {
+                "name": "Adobe Photoshop",
+                "level": "advanced",
+                "description": "Worked with Photoshop with purpose of UI Design + Photo Editing for more than 10 years."
+            },
+            {
+                "name": "Generative Arts",
+                "level": "advanced",
+                "description": "Has done medium and small-sized creative coding projects."
+            },
+            {
+                "name": "Affinity Designer",
+                "level": "advanced",
+                "description": "Have a good understanding of vector tools, exports and how to make them interactive in web."
+            },
+            {
+                "name": "Blender",
+                "level": "beginner",
+                "description": "Worked with purpose of Three.js and in beginner level."
+            }
+        ],
+        "Softskills": [
+            {
+                "name": "Teaching",
+                "level": "advanced",
+                "description": "Taught +6 years and known with my students results and honors in related field."
+            },
+            {
+                "name": "Leadership",
+                "level": "intermediate",
+                "description": "Have about 2 years of leadership experience with high-efficiency results."
+            },
+            {
+                "name": "Scrum",
+                "level": "intermediate",
+                "description": ""
+            }
+        ],
+        "Other": [
+
+        ]
+    },
     "experiences": [{
         "title": "Software Developer",
         "company": "Theatre.js",
