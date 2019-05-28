@@ -1,5 +1,5 @@
 import React from 'react';
-import './Summary.scss';
+import './style.scss';
 
 import resume from '../../data/resume.json'
 

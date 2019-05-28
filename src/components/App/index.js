@@ -1,8 +1,9 @@
 import React from 'react';
-import './App.scss';
-import Basic from '../Basic/Basic';
-import Summary from '../Summary/Summary';
-import Education from '../Education/Education';
+import './style.scss';
+
+import Basic from '../Basic';
+import Summary from '../Summary';
+import Education from '../Education';
 
 function App() {
   return (
