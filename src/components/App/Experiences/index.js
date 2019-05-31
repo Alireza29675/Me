@@ -3,24 +3,26 @@ import './style.scss';
 
 import resume from '../../../data/resume.json'
 
-export default class Education extends React.Component {
+export default class Experiences extends React.Component {
 
     get institutes () {
         const result = []
-        for (let institute of resume.education) result.push(
-            <li key={institute.name}>
-                <h3>{institute.name} <span>({institute.span.from} - {institute.span.to})</span></h3>
-                <strong>{institute.degree}</strong>
-                <em>{institute.location.city}, {institute.location.country}</em>
-            </li>
-        )
+        resume.experiences.forEach((item, i) => {
+            result.push(
+                <li key={`experience-${i}`}>
+                    <h3>{item.name} <span>({item.span.from} - {item.span.to})</span></h3>
+                    <strong>{item.degree}</strong>
+                    <em>{item.location.city}, {item.location.country}</em>
+                </li>
+            )
+        })
         return result;
     }
 
     render () {
 
-        return (<section className="Education">
-            <h2>Education</h2>
+        return (<section className="Experiences">
+            <h2>Experiences</h2>
             <ol>
                 {this.institutes}
             </ol>
