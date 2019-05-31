@@ -15,7 +15,7 @@ export default class Basic extends React.Component {
 
     render () {
         const { avatar } = this.state;
-        const fullName = `${resume.name} ${resume.lastname}`;
+        const fullName = `${resume.name} ${resume.lastName}`;
 
         return (
             <header className="Basic">
