@@ -1,5 +1,7 @@
-$title_font: 'Patua One', 'Arial', cursive;
-$body_font: 'Molengo', 'Avenir', sans-serif;
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans+TC|Roboto:500&display=swap');
+
+$title_font: 'Roboto', 'Arial', cursive;
+$body_font: 'Noto Sans TC', 'Avenir', sans-serif;
 
 $a4_width: 29.7cm;
 $a4_height: 21cm;
