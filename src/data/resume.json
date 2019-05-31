@@ -1,6 +1,6 @@
 {
     "name": "Alireza",
-    "lastname": "Sheikholmolouki",
+    "lastName": "Sheikholmolouki",
     "phoneNumber": "+989120563900",
     "email": "alireza.sheikholmolouki@gmail.com",
     "summary": "Solution-Driven Senior Front-end Developer with 11+ years of programming and 7+ years of experience leveraging JavaScript to build creative web-applications, websites, and interactive features that drive business growth and improve UX.",
@@ -26,7 +26,7 @@
         "twitter": "https://twitter.com/Alireza29675"
     },
     "skills": {
-        "Techologies": [
+        "Technologies": [
             {
                 "name": "Front-end Development Technologies",
                 "level": "advanced",
@@ -161,8 +161,8 @@
         "hidden": false,
         "highlight": false
     }, {
-        "title": "Progamming Teacher",
-        "company": "Kabiri Computer Institute",
+        "title": "Programming Teacher",
+        "company": "Kabiry Computer Institute",
         "span": {
             "from": "Nov 2014",
             "to": "Sep 2018"
