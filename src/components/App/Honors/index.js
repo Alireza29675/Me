@@ -1,7 +1,7 @@
-import React from './node_modules/react';
-import './Honors.scss';
+import React from 'react';
+import './style.scss';
 
-import resume from '../../data/resume.json'
+import resume from '../../../data/resume.json'
 
 export default class Honors extends React.Component {
 
@@ -9,9 +9,7 @@ export default class Honors extends React.Component {
         const result = []
         for (let honor of resume.honors) result.push(
             <li key={honor.name}>
-                <h3>{honor.name} <span>({institute.span.from} - {institute.span.to})</span></h3>
-                <strong>{institute.degree}</strong>
-                <em>{institute.location.city}, {institute.location.country}</em>
+                <h3>{honor.name}</h3>
             </li>
         )
         return result;

@@ -7,6 +7,7 @@ import Basic from './Basic';
 import Summary from './Summary';
 import Experiences from './Experiences';
 import Education from './Education';
+import Honors from './Honors';
 
 window.resume = resume;
 
@@ -19,6 +20,7 @@ function App() {
         <hr />
         <Experiences />
         <Education />
+        <Honors />
       </div>
     </div>
   );
