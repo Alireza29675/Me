@@ -10,9 +10,10 @@ export default class Experiences extends React.Component {
         resume.experiences.forEach((item, i) => {
             result.push(
                 <li key={`experience-${i}`}>
-                    <h3>{item.name} <span>({item.span.from} - {item.span.to})</span></h3>
-                    <strong>{item.degree}</strong>
-                    <em>{item.location.city}, {item.location.country}</em>
+                    <h3>{item.title} <span>({item.span.from} - {item.span.to})</span></h3>
+                    <strong>{item.company}</strong>
+                    <em>{item.location}</em>
+                    <p>{item.description}</p>
                 </li>
             )
         })
