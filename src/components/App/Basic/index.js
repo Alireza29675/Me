@@ -1,8 +1,8 @@
 import React from 'react';
-import './Basic.scss'
+import './style.scss'
 import md5 from 'md5'
 
-import resume from '../../data/resume.json'
+import resume from '../../../data/resume.json'
 
 export default class Basic extends React.Component {
 

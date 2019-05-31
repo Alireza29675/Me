@@ -1,7 +1,7 @@
 import React from 'react';
-import './Education.scss';
+import './style.scss';
 
-import resume from '../../data/resume.json'
+import resume from '../../../data/resume.json'
 
 export default class Education extends React.Component {
 
