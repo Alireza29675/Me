@@ -19,7 +19,7 @@ function App() {
     <div className="App">
       <Helmet>
           <meta charSet="utf-8" />
-          <title>{`${resume.name} ${resume.lastName}'s resume`}</title>
+          <title>{`${resume.name} ${resume.lastName}'s Resume`}</title>
       </Helmet>
       <div className="resume">
         <Basic />
