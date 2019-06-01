@@ -38,7 +38,7 @@
             "to": "Present"
         },
         "location": "Helsinki Area, Finland",
-        "description": "something"
+        "description": ""
     }, {
         "title": "Open-Source Developer",
         "company": "Open Source Projects",
@@ -49,17 +49,8 @@
         "location": "Everywhere",
         "description": ""
     }, {
-        "title": "Senior Representative",
+        "title": "Senior Representative and Co-Founder of HackaIran",
         "company": "HackaGlobal",
-        "span": {
-            "from": "Jun 2017",
-            "to": "Dec 2018"
-        },
-        "location": "Iran",
-        "description": ""
-    }, {
-        "title": "Co-Founder",
-        "company": "HackaIran",
         "span": {
             "from": "Jun 2017",
             "to": "Dec 2018"
@@ -74,12 +65,13 @@
             "to": "Sep 2018"
         },
         "location": "Karaj",
-        "description": ""
+        "description": "",
+        "hidden": true
     }, {
-        "title": "Teacher",
-        "company": "Tehran Institute of Technology",
+        "title": "Programming Teacher",
+        "company": "Tehran Institute of Technology, Sampad (NODET), Kabiry Institute",
         "span": {
-            "from": "Apr 2017",
+            "from": "Apr 2013",
             "to": "Jan 2018"
         },
         "location": "Iran, Karaj",
@@ -92,7 +84,8 @@
             "to": "Sep 2016"
         },
         "location": "Karaj",
-        "description": ""
+        "description": "",
+        "hidden": true
     }, {
         "title": "Javascript Expert",
         "company": "Fiction Team",
@@ -101,16 +94,8 @@
             "to": "Jan 2015"
         },
         "location": "Tehran",
-        "description": ""
-    }, {
-        "title": "Teacher",
-        "company": "Sampad (NODET)",
-        "span": {
-            "from": "Apr 2013",
-            "to": "Mar 2014"
-        },
-        "location": "Sampad Karaj High School",
-        "description": ""
+        "description": "",
+        "hidden": true
     }, {
         "title": "UI/UX Designer",
         "company": "Maahe Taabaan",
@@ -119,7 +104,8 @@
             "to": "2014"
         },
         "location": "Tehran",
-        "description": ""
+        "description": "",
+        "hidden": true
     }, {
         "title": "IT Manager",
         "company": "Huger",
@@ -128,7 +114,8 @@
             "to": "2014"
         },
         "location": "Karaj - Sampad High School",
-        "description": ""
+        "description": "",
+        "hidden": true
     }],
     "honors": [{
         "rank": "National Rank (1) Holder",
@@ -167,10 +154,11 @@
                 "to": 2017
             },
             "field": "Information Technology",
-            "degree": "Bachelor Degree"
+            "degree": "Bachelor Degree",
+            "hidden": true
         },
         {
-            "name": "NODET high-school (National Organization for Development of Exceptional Talents)",
+            "name": "NODET Highschool (National Organization for Development of Exceptional Talents)",
             "location": {
                 "city": "Karaj",
                 "country": "Iran"

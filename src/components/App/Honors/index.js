@@ -7,11 +7,17 @@ export default class Honors extends React.Component {
 
     get honors () {
         const result = []
-        for (let honor of resume.honors) result.push(
-            <li key={honor.name}>
-                <h3>{honor.name}</h3>
-            </li>
-        )
+        resume.honors.forEach((item, i) => {
+            if (item.hidden) return;
+            result.push(
+                <li key={`honors-${i}`}>
+                    <h3>{item.rank} <span>({item.in} - {item.year})</span></h3>
+                    <strong>{item.field}</strong>
+                    <em>{item.location}</em>
+                    {item.description && <p>{item.description}</p>}
+                </li>
+            )
+        })
         return result;
     }
 
