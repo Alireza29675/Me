@@ -11,9 +11,16 @@
     background: #fff;
     margin: auto;
     width: $a4_width - ($a4_bleeding * 2);
+    // height: $a4_height - ($a4_bleeding * 2);
     padding: $a4_bleeding;
     font-family: $body_font;
     box-shadow: 0 10px 15px rgba(0, 0, 0, 0.1);
     border-radius: 5px;
+  }
+
+  &__sections {
+    border-top: 1px solid #000;
+    margin-top: 2em;
+    padding-top: 1.5em;
   }
 }

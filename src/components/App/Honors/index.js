@@ -11,7 +11,7 @@ export default class Honors extends React.Component {
             if (item.hidden) return;
             result.push(
                 <li key={`honors-${i}`}>
-                    <h3>{item.rank} <span>({item.in} - {item.year})</span></h3>
+                    <h3>{item.rank} <span>({item.in} in {item.year})</span></h3>
                     <strong>{item.field}</strong>
                     <em>{item.location}</em>
                     {item.description && <p>{item.description}</p>}

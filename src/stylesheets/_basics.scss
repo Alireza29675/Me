@@ -1,4 +1,4 @@
-@import './variables';
+@import './_variables';
 
 body {
     background: #eee;
@@ -14,39 +14,46 @@ h1, h2, h3, h4, h5, h6, p {
 hr {
     border-style: solid;
     border-bottom: none;
+    margin: 2em 0 1.5em 0;
 }
 
 section {
-    padding: 1cm 0 0.3cm 0;
+    padding: 0.5em 0 0 0;
 
     h2 {
         text-align: center;
+        font-size: 1.2em;
     }
 
     p {
-        margin: 0.5cm 0;
+        margin: 0.7em 0;
+        font-size: 0.9em;
         line-height: 1.6em;
     }
 
     & > ol {
         list-style-type: none;
-        padding: 0.5cm 0;
+        padding: 0.5cm 0 0 0;
 
         li {
+            font-size: 0.9em;
             display: flex;
             flex-direction: column;
-            margin-bottom: 0.7cm;
+            margin-bottom: 1.5em;
+            page-break-inside: avoid;
+            break-inside: avoid;
 
             &:last-of-type {
                 margin-bottom: 0;
             }
 
             h3 {
-                margin-bottom: 0.3cm;
+                margin-bottom: 0.4em;
+                font-size: 1.2em;
 
                 & > span {
                     font-weight: normal;
-                    font-size: 0.9em;
+                    font-size: 0.8em;
                     color: #999;
                     font-family: $body_font;
                 }
@@ -54,3 +61,5 @@ section {
         }
     }
 }
+
+@import './_print';

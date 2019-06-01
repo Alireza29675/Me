@@ -1,0 +1,27 @@
+@import '../../../stylesheets/variables';
+
+.Skills {
+
+    &__skill {
+        display: inline-block;
+        font-size: 0.8em;
+        background: #EEE;
+        border-radius: 5px;
+        padding: 0.2em 0.6em;
+        margin: 0.2em;
+
+        &__name {
+
+        }
+
+        &__level {
+
+            &:before {
+                content: ' (';
+            }
+            &:after {
+                content: ')';
+            }
+        }
+    }
+}
