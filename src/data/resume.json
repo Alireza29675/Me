@@ -28,7 +28,8 @@
     ],
     "links": {
         "linkedin": "https://linkedin.com/in/alireza-sheikholmolouki/",
-        "twitter": "https://twitter.com/Alireza29675"
+        "twitter": "https://twitter.com/Alireza29675",
+        "github": "https://github.com/Alireza29675"
     },
     "experiences": [{
         "title": "Software Developer",
@@ -243,7 +244,7 @@
                 "level": "intermediate"
             },
             {
-                "name": "Scrum",
+                "name": "Agile/Scrum",
                 "level": "intermediate"
             }
         ],
