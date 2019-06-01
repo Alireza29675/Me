@@ -11,7 +11,7 @@ export default class Honors extends React.Component {
             const elements = resume.skills[cat].map(item => {
                 return (<div key={item.name} className="Skills__skill">
                     <span className="Skills__skill__name">{item.name}</span>
-                    <span className="Skills__skill__level">{item.level}</span>
+                    <span className={`Skills__skill__level ${item.level}`}>{item.level}</span>
                 </div>)
             })
             result.push(<div key={cat} className="Skills__category">

@@ -250,6 +250,9 @@
         "Other": [{
             "name": "Clay Sculpting",
             "level": "intermediate"
+        }, {
+            "name": "Piano Playing",
+            "level": "beginner"
         }]
     }
 }

@@ -3,25 +3,34 @@
 .Skills {
 
     &__skill {
-        display: inline-block;
+        display: inline-flex;
         font-size: 0.8em;
         background: #EEE;
         border-radius: 5px;
-        padding: 0.2em 0.6em;
-        margin: 0.2em;
+        margin: 0.3em;
+        position: relative;
+        overflow: hidden;
 
         &__name {
-
+            padding: 0.2em 0.5em;
         }
 
         &__level {
+            padding: 0.2em 0.6em;
+            display: inline-block;
+            align-self: stretch;
+            $color: #ddd;
+            background: linear-gradient(90deg, $color, darken($color, 10%));
+            
+            &.advanced {
+                $color: #a4eab6;
+                background: linear-gradient(90deg, $color, darken($color, 10%));
+            }
+            &.intermediate {
+                $color: #dceaa4;
+                background: linear-gradient(90deg, $color, darken($color, 10%));
+            }
 
-            &:before {
-                content: ' (';
-            }
-            &:after {
-                content: ')';
-            }
         }
     }
 }
