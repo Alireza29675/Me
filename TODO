@@ -14,6 +14,8 @@ Bugs and Maintain
     TODO must find a good solution to generate PDF and README.md in pre-push state
     TODO write a better and more visual INSTALLATION.md
     TODO enable to add and remove different social medias
+    TODO change favicon
+    TODO mention that avatar is being automatically loaded from Gravatar
 
 ----------------------------------------------------------------------------
 Over-engineering!
