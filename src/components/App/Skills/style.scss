@@ -1,6 +1,23 @@
 @import '../../../stylesheets/variables';
 
+@mixin stickBg ($color) {
+    background: linear-gradient(90deg, $color, darken($color, 5%));
+}
+
 .Skills {
+
+    ol {
+        margin-top: 0;
+    }
+
+    &__category {
+        margin-bottom: 1em;
+
+        h5 {
+            font-size: 1em;
+            padding: 0.6em 0.3em;
+        }
+    }
 
     &__skill {
         display: inline-flex;
@@ -19,16 +36,17 @@
             padding: 0.2em 0.6em;
             display: inline-block;
             align-self: stretch;
-            $color: #ddd;
-            background: linear-gradient(90deg, $color, darken($color, 10%));
+            @include stickBg(#ddd);
             
-            &.advanced {
-                $color: #a4eab6;
-                background: linear-gradient(90deg, $color, darken($color, 10%));
-            }
             &.intermediate {
-                $color: #dceaa4;
-                background: linear-gradient(90deg, $color, darken($color, 10%));
+                @include stickBg(#aaa);
+                color: white;
+                text-shadow: 0 0 2px rgba(0, 0, 0, 0.8);
+            }
+            &.advanced {
+                @include stickBg(#777);
+                color: white;
+                text-shadow: 0 0 2px rgba(0, 0, 0, 0.8);
             }
 
         }

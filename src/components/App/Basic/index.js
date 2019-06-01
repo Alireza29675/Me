@@ -25,10 +25,10 @@ export default class Basic extends React.Component {
                 <div className="Basic__right">
                     <h2 className="name">{fullName}</h2>
                     <em className="location">{resume.location.city}, {resume.location.country}</em>
-                    <span><b>Phone: </b><a href={`tel: ${resume.phoneNumber}`}>{resume.phoneNumber}</a></span>
-                    <span><b>Email: </b><a href={`mailto: ${resume.email}`}>{resume.email}</a></span>
+                    <span><b>Phone: </b><a target="_blank" rel="noopener noreferrer" href={`tel: ${resume.phoneNumber}`}>{resume.phoneNumber}</a></span>
+                    <span><b>Email: </b><a target="_blank" rel="noopener noreferrer" href={`mailto: ${resume.email}`}>{resume.email}</a></span>
                     <span><b>Date of Birth: </b>{resume.birthday.year}/{resume.birthday.month}/{resume.birthday.day}</span>
-                    <span><b>Linkedin: </b><a href={resume.links.linkedin}>{resume.links.linkedin}</a></span>
+                    <span><b>Linkedin: </b><a target="_blank" rel="noopener noreferrer" href={resume.links.linkedin}>{resume.links.linkedin}</a></span>
                 </div>
             </header>
         )
