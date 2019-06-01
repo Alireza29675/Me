@@ -2,7 +2,7 @@
 
 **Me** is an application which process a JSON file with a specified schema and will generate a printer-friendly webpage as a result.
 
-![Screenshot of Me](https://user-images.githubusercontent.com/2771377/58750472-2c0e0800-84a8-11e9-99ac-8a0bd9a2a514.PNG)
+![Screenshot of Me](https://user-images.githubusercontent.com/2771377/58752355-b9f6ec80-84c2-11e9-8c51-24880e5278c6.PNG)
 
 ## What's the purpose?
 - Google Docs, Microsoft Word and other similar applications are designed to support every kinds of layout. Due to this reason sometimes it's hard to manage adding and removing items from pre-created resume.
