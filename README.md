@@ -1,4 +1,6 @@
-<img src="https://user-images.githubusercontent.com/2771377/58760372-12260100-854c-11e9-8756-4b4d9ad61154.png" data-canonical-src="https://user-images.githubusercontent.com/2771377/58760372-12260100-854c-11e9-8756-4b4d9ad61154.png" width="150" height="150" />
+<div style="text-align: center">
+    <img src="https://user-images.githubusercontent.com/2771377/58760372-12260100-854c-11e9-8756-4b4d9ad61154.png" data-canonical-src="https://user-images.githubusercontent.com/2771377/58760372-12260100-854c-11e9-8756-4b4d9ad61154.png" width="150" height="150" />
+</div>
 
 # Me _(My JSON resume with graphical interface)_
 
