@@ -1,6 +1,10 @@
 import React from 'react';
 import { Helmet } from 'react-helmet';
 
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import { faGithub } from '@fortawesome/free-brands-svg-icons'
+
+
 import './style.scss';
 
 import resume from '../../data/resume.json'
@@ -31,7 +35,9 @@ function App() {
           <Education />
         </div>
       </div>
-      <div className="footer-credits">Resume was generated using <a href="https://github.com/Alireza29675/Me" rel="noopener noreferrer" target="_blank">https://github.com/Alireza29675/Me</a></div>
+      <div className="footer-credits">
+        <FontAwesomeIcon icon={faGithub} /> Fork this resume in <a href="https://github.com/Alireza29675/Me" rel="noopener noreferrer" target="_blank">https://github.com/Alireza29675/Me</a>
+      </div>
     </div>
   );
 }
