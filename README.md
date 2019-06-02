@@ -1,3 +1,5 @@
+<img src="https://user-images.githubusercontent.com/2771377/58760372-12260100-854c-11e9-8756-4b4d9ad61154.png" data-canonical-src="https://user-images.githubusercontent.com/2771377/58760372-12260100-854c-11e9-8756-4b4d9ad61154.png" width="150" height="150" />
+
 # Me _(My JSON resume with graphical interface)_
 
 **Me** is an application which process a JSON file with a specified schema and will generate a printer-friendly webpage as a result.
