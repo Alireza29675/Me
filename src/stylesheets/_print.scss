@@ -1,7 +1,27 @@
+@import './_variables';
+
 @page {
+    size: A4;
     margin: 0.8in;
 }
+
+.footer-credits {
+    display: none;
+    position: fixed;
+    width: 100%;
+    left: 0;
+    text-align: center;
+    bottom: 0;
+    font-size: 0.8em;
+    font-family: $body_font;
+    opacity: 0.6;
+}
+
 @media print {
+
+    .footer-credits {
+        display: block;
+    }
 
     body {
         background: #fff;
