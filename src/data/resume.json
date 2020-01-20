@@ -1,259 +1,280 @@
 {
-    "name": "Alireza",
-    "lastName": "Sheikholmolouki",
-    "phoneNumber": "+989120563900",
-    "email": "alireza.sheikholmolouki@gmail.com",
-    "summary": "Solution-Driven Front-end Developer with 11+ years of programming and 7+ years of experience leveraging JavaScript to build creative web-applications, websites, and interactive features that drive business growth and improve UX.",
-    "birthday": {
-        "year": 1996,
-        "month": 9,
-        "day": 19
+  "name": "Alireza",
+  "lastName": "Sheikholmolouki",
+  "phoneNumber": "+989120563900",
+  "email": "alireza.sheikholmolouki@gmail.com",
+  "summary": "Solution-Driven Front-end Developer with 11+ years of programming and 7+ years of experience leveraging JavaScript to build creative web-applications, websites, and interactive features that drive business growth and improve UX.",
+  "birthday": {
+    "year": 1996,
+    "month": 9,
+    "day": 19
+  },
+  "location": {
+    "city": "Karaj",
+    "country": "Iran"
+  },
+  "origin": {
+    "city": "Hamadan",
+    "country": "Iran"
+  },
+  "languages": [
+    {
+      "title": "English",
+      "level": "Professional Working"
     },
-    "location": {
+    {
+      "title": "Persian",
+      "level": "Native"
+    }
+  ],
+  "links": {
+    "linkedin": "https://linkedin.com/in/alireza-sheikholmolouki/",
+    "twitter": "https://twitter.com/Alireza29675",
+    "github": "https://github.com/Alireza29675"
+  },
+  "experiences": [
+    {
+      "title": "Software Developer",
+      "company": "Theatre.js",
+      "span": {
+        "from": "Nov 2018",
+        "to": "Nov 2019"
+      },
+      "location": "Remote with Helsinki Area, Finland",
+      "description": ""
+    },
+    {
+      "title": "Open-Source Developer",
+      "company": "Open Source Projects",
+      "span": {
+        "from": "Nov 2007",
+        "to": "Present"
+      },
+      "location": "Everywhere",
+      "description": ""
+    },
+    {
+      "title": "Senior Representative and Co-Founder of HackaIran",
+      "company": "HackaGlobal",
+      "span": {
+        "from": "Jun 2017",
+        "to": "Dec 2018"
+      },
+      "location": "Iran",
+      "description": ""
+    },
+    {
+      "title": "Programming Teacher",
+      "company": "Kabiry Computer Institute",
+      "span": {
+        "from": "Nov 2014",
+        "to": "Sep 2018"
+      },
+      "location": "Karaj",
+      "description": "",
+      "hidden": true
+    },
+    {
+      "title": "Programming Teacher",
+      "company": "Tehran Institute of Technology, Sampad (NODET), Kabiry Institute",
+      "span": {
+        "from": "Apr 2013",
+        "to": "Jan 2018"
+      },
+      "location": "Iran, Karaj",
+      "description": ""
+    },
+    {
+      "title": "Graphic Designer",
+      "company": "Khaak Group",
+      "span": {
+        "from": "May 2012",
+        "to": "Sep 2016"
+      },
+      "location": "Karaj",
+      "description": "",
+      "hidden": true
+    },
+    {
+      "title": "Javascript Expert",
+      "company": "Fiction Team",
+      "span": {
+        "from": "Mar 2014",
+        "to": "Jan 2015"
+      },
+      "location": "Tehran",
+      "description": "",
+      "hidden": true
+    },
+    {
+      "title": "UI/UX Designer",
+      "company": "Maahe Taabaan",
+      "span": {
+        "from": "2013",
+        "to": "2014"
+      },
+      "location": "Tehran",
+      "description": "",
+      "hidden": true
+    },
+    {
+      "title": "IT Manager",
+      "company": "Huger",
+      "span": {
+        "from": "2012",
+        "to": "2014"
+      },
+      "location": "Karaj - Sampad High School",
+      "description": "",
+      "hidden": true
+    }
+  ],
+  "honors": [
+    {
+      "rank": "National Rank (1) Holder",
+      "field": "Front-end Development",
+      "in": "3rd Fanavard National Contest of Sharif University",
+      "year": 2016,
+      "location": "Iran"
+    },
+    {
+      "rank": "Gold Medal, National Rank (1) Holder",
+      "field": "Web Design Olympiads",
+      "in": "14th National WorldSkills Competition",
+      "year": 2013,
+      "location": "Iran"
+    }
+  ],
+  "education": [
+    {
+      "name": "Shiraz University of Science and Technology",
+      "location": {
+        "city": "Shiraz",
+        "country": "Iran"
+      },
+      "span": {
+        "from": 2017,
+        "to": 2021
+      },
+      "field": "Software Engineering",
+      "degree": "Bachelor Degree"
+    },
+    {
+      "name": "Azad University Of Karaj",
+      "location": {
         "city": "Karaj",
         "country": "Iran"
+      },
+      "span": {
+        "from": 2014,
+        "to": 2017
+      },
+      "field": "Information Technology",
+      "degree": "Bachelor Degree",
+      "hidden": true
     },
-    "origin": {
-        "city": "Hamadan",
+    {
+      "name": "NODET Highschool (National Organization for Development of Exceptional Talents)",
+      "location": {
+        "city": "Karaj",
         "country": "Iran"
-    },
-    "languages": [{
-            "title": "English",
-            "level": "Professional Working"
-        },
-        {
-            "title": "Persian",
-            "level": "Native"
-        }
-    ],
-    "links": {
-        "linkedin": "https://linkedin.com/in/alireza-sheikholmolouki/",
-        "twitter": "https://twitter.com/Alireza29675",
-        "github": "https://github.com/Alireza29675"
-    },
-    "experiences": [{
-        "title": "Software Developer",
-        "company": "Theatre.js",
-        "span": {
-            "from": "Nov 2018",
-            "to": "Present"
-        },
-        "location": "Remote with Helsinki Area, Finland",
-        "description": ""
-    }, {
-        "title": "Open-Source Developer",
-        "company": "Open Source Projects",
-        "span": {
-            "from": "Nov 2007",
-            "to": "Present"
-        },
-        "location": "Everywhere",
-        "description": ""
-    }, {
-        "title": "Senior Representative and Co-Founder of HackaIran",
-        "company": "HackaGlobal",
-        "span": {
-            "from": "Jun 2017",
-            "to": "Dec 2018"
-        },
-        "location": "Iran",
-        "description": ""
-    }, {
-        "title": "Programming Teacher",
-        "company": "Kabiry Computer Institute",
-        "span": {
-            "from": "Nov 2014",
-            "to": "Sep 2018"
-        },
-        "location": "Karaj",
-        "description": "",
-        "hidden": true
-    }, {
-        "title": "Programming Teacher",
-        "company": "Tehran Institute of Technology, Sampad (NODET), Kabiry Institute",
-        "span": {
-            "from": "Apr 2013",
-            "to": "Jan 2018"
-        },
-        "location": "Iran, Karaj",
-        "description": ""
-    }, {
-        "title": "Graphic Designer",
-        "company": "Khaak Group",
-        "span": {
-            "from": "May 2012",
-            "to": "Sep 2016"
-        },
-        "location": "Karaj",
-        "description": "",
-        "hidden": true
-    }, {
-        "title": "Javascript Expert",
-        "company": "Fiction Team",
-        "span": {
-            "from": "Mar 2014",
-            "to": "Jan 2015"
-        },
-        "location": "Tehran",
-        "description": "",
-        "hidden": true
-    }, {
-        "title": "UI/UX Designer",
-        "company": "Maahe Taabaan",
-        "span": {
-            "from": "2013",
-            "to": "2014"
-        },
-        "location": "Tehran",
-        "description": "",
-        "hidden": true
-    }, {
-        "title": "IT Manager",
-        "company": "Huger",
-        "span": {
-            "from": "2012",
-            "to": "2014"
-        },
-        "location": "Karaj - Sampad High School",
-        "description": "",
-        "hidden": true
-    }],
-    "honors": [{
-        "rank": "National Rank (1) Holder",
-        "field": "Front-end Development",
-        "in": "3rd Fanavard National Contest of Sharif University",
-        "year": 2016,
-        "location": "Iran"
-    }, {
-        "rank": "Gold Medal, National Rank (1) Holder",
-        "field": "Web Design Olympiads",
-        "in": "14th National WorldSkills Competition",
-        "year": 2013,
-        "location": "Iran"
-    }],
-    "education": [{
-            "name": "Shiraz University of Science and Technology",
-            "location": {
-                "city": "Shiraz",
-                "country": "Iran"
-            },
-            "span": {
-                "from": 2017,
-                "to": 2021
-            },
-            "field": "Software Engineering",
-            "degree": "Bachelor Degree"
-        },
-        {
-            "name": "Azad University Of Karaj",
-            "location": {
-                "city": "Karaj",
-                "country": "Iran"
-            },
-            "span": {
-                "from": 2014,
-                "to": 2017
-            },
-            "field": "Information Technology",
-            "degree": "Bachelor Degree",
-            "hidden": true
-        },
-        {
-            "name": "NODET Highschool (National Organization for Development of Exceptional Talents)",
-            "location": {
-                "city": "Karaj",
-                "country": "Iran"
-            },
-            "span": {
-                "from": 2007,
-                "to": 2014
-            },
-            "field": "Mathematics and Physics",
-            "degree": "Diploma"
-        }
-    ],
-    "skills": {
-        "Programming": [{
-                "name": "Modern Front-end Development Technologies (such as Webpack, SASS, Jest, Babel)",
-                "level": "advanced"
-            },
-            {
-                "name": "Javascript",
-                "level": "advanced"
-            },
-            {
-                "name": "React.js",
-                "level": "advanced"
-            },
-            {
-                "name": "Node.js",
-                "level": "advanced"
-            },
-            {
-                "name": "Typescript",
-                "level": "intermediate"
-            },
-            {
-                "name": "MongoDB",
-                "level": "intermediate"
-            },
-            {
-                "name": "Three.js",
-                "level": "intermediate"
-            },
-            {
-                "name": "React Native",
-                "level": "intermediate"
-            },
-            {
-                "name": "Git",
-                "level": "intermediate"
-            },
-            {
-                "name": "Socket.io",
-                "level": "intermediate"
-            },
-            {
-                "name": "Python",
-                "level": "intermediate"
-            }
-        ],
-        "Digital Arts": [{
-                "name": "Adobe Photoshop",
-                "level": "advanced"
-            },
-            {
-                "name": "Generative Arts",
-                "level": "advanced"
-            },
-            {
-                "name": "Affinity Designer",
-                "level": "advanced"
-            },
-            {
-                "name": "Blender",
-                "level": "beginner"
-            }
-        ],
-        "Softskills": [{
-                "name": "Teaching",
-                "level": "advanced"
-            },
-            {
-                "name": "Leadership",
-                "level": "intermediate"
-            },
-            {
-                "name": "Agile/Scrum",
-                "level": "intermediate"
-            }
-        ],
-        "Other": [{
-            "name": "Clay Sculpting",
-            "level": "intermediate"
-        }, {
-            "name": "Piano Playing",
-            "level": "beginner"
-        }]
+      },
+      "span": {
+        "from": 2007,
+        "to": 2014
+      },
+      "field": "Mathematics and Physics",
+      "degree": "Diploma"
     }
+  ],
+  "skills": {
+    "Programming": [
+      {
+        "name": "Modern Front-end Development Technologies (such as Webpack, SASS, Jest, Babel)",
+        "level": "advanced"
+      },
+      {
+        "name": "Javascript",
+        "level": "advanced"
+      },
+      {
+        "name": "React.js",
+        "level": "advanced"
+      },
+      {
+        "name": "Node.js",
+        "level": "advanced"
+      },
+      {
+        "name": "Typescript",
+        "level": "intermediate"
+      },
+      {
+        "name": "MongoDB",
+        "level": "intermediate"
+      },
+      {
+        "name": "Three.js",
+        "level": "intermediate"
+      },
+      {
+        "name": "React Native",
+        "level": "intermediate"
+      },
+      {
+        "name": "Git",
+        "level": "intermediate"
+      },
+      {
+        "name": "Socket.io",
+        "level": "intermediate"
+      },
+      {
+        "name": "Python",
+        "level": "intermediate"
+      }
+    ],
+    "Digital Arts": [
+      {
+        "name": "Adobe Photoshop",
+        "level": "advanced"
+      },
+      {
+        "name": "Generative Arts",
+        "level": "advanced"
+      },
+      {
+        "name": "Affinity Designer",
+        "level": "intermediate"
+      },
+      {
+        "name": "Blender",
+        "level": "intermediate"
+      }
+    ],
+    "Softskills": [
+      {
+        "name": "Teaching",
+        "level": "advanced"
+      },
+      {
+        "name": "Leadership",
+        "level": "intermediate"
+      },
+      {
+        "name": "Agile/Scrum",
+        "level": "intermediate"
+      }
+    ],
+    "Other": [
+      {
+        "name": "Clay Sculpting",
+        "level": "intermediate"
+      },
+      {
+        "name": "Piano Playing",
+        "level": "beginner"
+      }
+    ]
+  }
 }

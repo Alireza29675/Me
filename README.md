@@ -22,46 +22,45 @@ These instructions will get you a copy of the project up and running on your loc
 
 2. Clone your fork using following command:
 
-    ```bash
-    git clone [YOUR-FORK-URL]
-    ```
+   ```bash
+   git clone [YOUR-FORK-URL]
+   ```
 
 3. Go to **Me** directory and install dependencies:
 
-    ```bash
-    cd ./Me
-    yarn install
-    ```
+   ```bash
+   cd ./Me
+   yarn install
+   ```
 
 4. Modify your resume file which is located at `src/data/resume.json`
 
 5. Build your PDF resume in `/build/` directory
 
-    ```bash
-    yarn run build
-    ```
-
+   ```bash
+   yarn run build
+   ```
 
 ## Running the tests
 
 - Make sure you've installed **Me** step by step
 - Run following command to test if the app works properly:
-    ```bash
-    yarn test
-    ```
+  ```bash
+  yarn test
+  ```
 
 ## Deployment
 
-- 
+-
 
 ## Built With
 
-* [Node.js](https://Nodejs.org) - Javascript Engine
-* [Create React App](https://facebook.github.io/create-react-app/) - React App Generator
-* [Yarn](https://yarnpkg.com) - Dependency Management
-* [SASS](https://sass-lang.com/) - CSS Preprocessor
-* [FontAwesome](https://fontawesome.com/) - Font Icons
-* [PurpleBooth's README Template](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2) - README Template
+- [Node.js](https://Nodejs.org) - Javascript Engine
+- [Create React App](https://facebook.github.io/create-react-app/) - React App Generator
+- [Yarn](https://yarnpkg.com) - Dependency Management
+- [SASS](https://sass-lang.com/) - CSS Preprocessor
+- [FontAwesome](https://fontawesome.com/) - Font Icons
+- [PurpleBooth's README Template](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2) - README Template
 
 ## Contributing
 
@@ -69,11 +68,11 @@ Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c6
 
 ## Versioning
 
-I use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/Alireza29675/Me/tags). 
+I use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/Alireza29675/Me/tags).
 
 ## Authors
 
-* **Alireza Sheikholmolouki** - *Initial work* - [Alireza29675](https://github.com/Alireza29675)
+- **Alireza Sheikholmolouki** - _Initial work_ - [Alireza29675](https://github.com/Alireza29675)
 
 See also the list of [contributors](https://github.com/Alireza29675/Me/contributors) who participated in this project.
 
