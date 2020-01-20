@@ -5,7 +5,7 @@
 
 Solution-Driven Front-end Developer with 11+ years of programming and 7+ years of experience leveraging JavaScript to build creative web-applications, websites, and interactive features that drive business growth and improve UX.
 
-<p align="center">
+<p align="left">
     <a href="https://linkedin.com/in/alireza-sheikholmolouki/" target="_new">LinkedIn</a> ●
     <a href="https://github.com/Alireza29675" target="_new">GitHub</a> ●
     <a href="https://twitter.com/Alireza29675" target="_new">Twitter</a>

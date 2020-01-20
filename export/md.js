@@ -14,7 +14,7 @@ const resume = `
 
 ${config.summary}
 
-<p align="center">
+<p align="left">
     <a href="${config.links.linkedin}" target="_new">LinkedIn</a> ●
     <a href="${config.links.github}" target="_new">GitHub</a> ●
     <a href="${config.links.twitter}" target="_new">Twitter</a>
