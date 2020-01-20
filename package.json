@@ -8,11 +8,11 @@
     "@fortawesome/free-solid-svg-icons": "^5.8.2",
     "@fortawesome/react-fontawesome": "^0.1.4",
     "md5": "^2.2.1",
-    "node-sass": "^4.12.0",
+    "node-sass": "^4.13.1",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-helmet": "^5.2.1",
-    "react-scripts": "3.0.1"
+    "react-scripts": "^3.3.0"
   },
   "scripts": {
     "export:pdf": "echo \"No PDF export yet\"",
