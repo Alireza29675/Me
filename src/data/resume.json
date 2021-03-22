@@ -34,6 +34,16 @@
   },
   "experiences": [
     {
+      "title": "Front-end Engineer",
+      "company": "Cafe Bazaar",
+      "span": {
+        "from": "Jun 2020",
+        "to": "Present"
+      },
+      "location": "Tehran, Iran",
+      "description": ""
+    },
+    {
       "title": "Software Developer",
       "company": "Theatre.js",
       "span": {
@@ -51,11 +61,12 @@
         "to": "Present"
       },
       "location": "Everywhere",
-      "description": ""
+      "description": "",
+      "hidden": true
     },
     {
-      "title": "Senior Representative and Co-Founder of HackaIran",
-      "company": "HackaGlobal",
+      "title": "Co-Founder of HackaIran",
+      "company": "Senior Representative of HackaGlobal",
       "span": {
         "from": "Jun 2017",
         "to": "Dec 2018"
@@ -76,12 +87,12 @@
     },
     {
       "title": "Programming Teacher",
-      "company": "Tehran Institute of Technology, Sampad (NODET), Kabiry Institute",
+      "company": "In institutes such as Tehran Institute of Technology, Sampad (NODET), Kabiry Institute",
       "span": {
         "from": "Apr 2013",
         "to": "Jan 2018"
       },
-      "location": "Iran, Karaj",
+      "location": "Tehran, Iran",
       "description": ""
     },
     {
@@ -131,17 +142,17 @@
   ],
   "honors": [
     {
-      "rank": "National Rank (1) Holder",
-      "field": "Front-end Development",
-      "in": "3rd Fanavard National Contest of Sharif University",
-      "year": 2016,
-      "location": "Iran"
-    },
-    {
       "rank": "Gold Medal, National Rank (1) Holder",
       "field": "Web Design Olympiads",
       "in": "14th National WorldSkills Competition",
       "year": 2013,
+      "location": "Iran"
+    },
+    {
+      "rank": "National Rank (1) Holder",
+      "field": "Front-end Development",
+      "in": "3rd Fanavard National Contest of Sharif University",
+      "year": 2016,
       "location": "Iran"
     }
   ],
@@ -198,6 +209,10 @@
         "level": "advanced"
       },
       {
+        "name": "Vue.js",
+        "level": "advanced"
+      },
+      {
         "name": "React.js",
         "level": "advanced"
       },
@@ -207,10 +222,6 @@
       },
       {
         "name": "Typescript",
-        "level": "intermediate"
-      },
-      {
-        "name": "MongoDB",
         "level": "intermediate"
       },
       {
