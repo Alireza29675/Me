@@ -20,10 +20,10 @@ Solution-Driven Front-end Developer with 11+ years of programming and 7+ years o
 ### Programming
 - Modern Front-end Development Technologies (such as Webpack, SASS, Jest, Babel) _(advanced)_
 - Javascript _(advanced)_
+- Vue.js _(advanced)_
 - React.js _(advanced)_
 - Node.js _(advanced)_
 - Typescript _(intermediate)_
-- MongoDB _(intermediate)_
 - Three.js _(intermediate)_
 - React Native _(intermediate)_
 - Git _(intermediate)_
@@ -47,37 +47,37 @@ Solution-Driven Front-end Developer with 11+ years of programming and 7+ years o
 
 ## Experiences
 
+### Front-end Engineer _at Cafe Bazaar_
+Tehran, Iran
+_Jun 2020 - Present_
+
+
 ### Software Developer _at Theatre.js_
 Remote with Helsinki Area, Finland
 _Nov 2018 - Nov 2019_
 
 
-### Open-Source Developer _at Open Source Projects_
-Everywhere
-_Nov 2007 - Present_
-
-
-### Senior Representative and Co-Founder of HackaIran _at HackaGlobal_
+### Co-Founder of HackaIran _at Senior Representative of HackaGlobal_
 Iran
 _Jun 2017 - Dec 2018_
 
 
-### Programming Teacher _at Tehran Institute of Technology, Sampad (NODET), Kabiry Institute_
-Iran, Karaj
+### Programming Teacher _at In institutes such as Tehran Institute of Technology, Sampad (NODET), Kabiry Institute_
+Tehran, Iran
 _Apr 2013 - Jan 2018_
 
 
 ## Honors
 
-### National Rank (1) Holder _at Front-end Development_
-2016, Iran
-
-_3rd Fanavard National Contest of Sharif University_
-
 ### Gold Medal, National Rank (1) Holder _at Web Design Olympiads_
 2013, Iran
 
 _14th National WorldSkills Competition_
+
+### National Rank (1) Holder _at Front-end Development_
+2016, Iran
+
+_3rd Fanavard National Contest of Sharif University_
 
 ## Education
 
