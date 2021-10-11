@@ -3,7 +3,7 @@
 
 # Alireza Sheikholmolouki
 
-Solution-Driven Front-end Developer with 11+ years of programming and 7+ years of experience leveraging JavaScript to build creative web-applications, websites, and interactive features that drive business growth and improve UX.
+Solution-Driven Front-end Engineer with 7+ years of advanced programming and leveraging JavaScript to build creative web applications, websites, and outside-the-box features that drive business growth and improve UX.
 
 <p align="left">
     <a href="https://linkedin.com/in/alireza-sheikholmolouki/" target="_new">LinkedIn</a> ●
@@ -25,10 +25,9 @@ Solution-Driven Front-end Developer with 11+ years of programming and 7+ years o
 - Node.js _(advanced)_
 - Typescript _(intermediate)_
 - Three.js _(intermediate)_
-- React Native _(intermediate)_
+- Redux _(intermediate)_
 - Git _(intermediate)_
-- Socket.io _(intermediate)_
-- Python _(intermediate)_
+- Real-time systems (WebSocket) _(intermediate)_
 
 ### Digital Arts
 - Adobe Photoshop _(advanced)_
@@ -43,7 +42,6 @@ Solution-Driven Front-end Developer with 11+ years of programming and 7+ years o
 
 ### Other
 - Clay Sculpting _(intermediate)_
-- Piano Playing _(beginner)_
 
 ## Experiences
 

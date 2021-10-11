@@ -3,7 +3,7 @@
   "lastName": "Sheikholmolouki",
   "phoneNumber": "+989120563900",
   "email": "alireza.sheikholmolouki@gmail.com",
-  "summary": "Solution-Driven Front-end Developer with 11+ years of programming and 7+ years of experience leveraging JavaScript to build creative web-applications, websites, and interactive features that drive business growth and improve UX.",
+  "summary": "Solution-Driven Front-end Engineer with 7+ years of advanced programming and leveraging JavaScript to build creative web applications, websites, and outside-the-box features that drive business growth and improve UX.",
   "birthday": {
     "year": 1996,
     "month": 9,
@@ -229,7 +229,7 @@
         "level": "intermediate"
       },
       {
-        "name": "React Native",
+        "name": "Redux",
         "level": "intermediate"
       },
       {
@@ -237,11 +237,7 @@
         "level": "intermediate"
       },
       {
-        "name": "Socket.io",
-        "level": "intermediate"
-      },
-      {
-        "name": "Python",
+        "name": "Real-time systems (WebSocket)",
         "level": "intermediate"
       }
     ],
@@ -281,10 +277,6 @@
       {
         "name": "Clay Sculpting",
         "level": "intermediate"
-      },
-      {
-        "name": "Piano Playing",
-        "level": "beginner"
       }
     ]
   }
