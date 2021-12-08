@@ -60,7 +60,7 @@ Iran
 _Jun 2017 - Dec 2018_
 
 
-### Programming Teacher _at In institutes such as Tehran Institute of Technology, Sampad (NODET), Kabiry Institute_
+### Programming Teacher _at Tehran Institute of Technology, Sampad (NODET), Kabiry Institute_
 Tehran, Iran
 _Apr 2013 - Jan 2018_
 
