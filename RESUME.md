@@ -47,7 +47,7 @@ Solution-Driven Front-end Engineer with 7+ years of advanced programming and lev
 
 ### Front-end Engineer _at Cafe Bazaar_
 Tehran, Iran
-_Jun 2020 - Present_
+_Jun 2020 - Nov 2021_
 
 
 ### Software Developer _at Theatre.js_
