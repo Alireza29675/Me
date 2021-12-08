@@ -30,6 +30,7 @@ Solution-Driven Front-end Engineer with 7+ years of advanced programming and lev
 - Real-time systems (WebSocket) _(intermediate)_
 
 ### Digital Arts
+- Figma _(advanced)_
 - Adobe Photoshop _(advanced)_
 - Generative Arts _(advanced)_
 - Affinity Designer _(intermediate)_
