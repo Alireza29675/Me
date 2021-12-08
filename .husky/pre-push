@@ -11,3 +11,6 @@ git add *.md
 if [[ `git status --porcelain` ]]; then
   git commit -m "📃 Markdown files auto exported"
 fi
+
+# pushing at the end
+git push
