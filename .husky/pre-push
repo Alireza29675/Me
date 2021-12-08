@@ -8,4 +8,4 @@ npm run export:md
 git add *.md
 
 # commit them to the last commit
-git commit --amend
+git commit -m "auto exported"
