@@ -243,6 +243,10 @@
     ],
     "Digital Arts": [
       {
+        "name": "Figma",
+        "level": "advanced"
+      },
+      {
         "name": "Adobe Photoshop",
         "level": "advanced"
       },
