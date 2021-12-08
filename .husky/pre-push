@@ -5,9 +5,7 @@
 npm run export:md
 
 # adding exported files
-git add README.md
-git add RESUME.md
-git add CV.md
+git add *.md
 
 # commit them to the last commit
 git commit --amend
