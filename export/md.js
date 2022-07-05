@@ -1,7 +1,7 @@
 const fs = require("fs")
 const path = require("path")
 const config = require("../src/data/resume.json")
-const filePath = path.resolve(__dirname, "../RESUME.md")
+const filePath = path.resolve(__dirname, "../README.md")
 const md5 = require("md5")
 
 const fullName = config.name + " " + config.lastName
@@ -21,7 +21,7 @@ ${config.summary}
 </p>
 
 - **Location:** ${config.location.city}, ${config.location.country}
-- **Phone:** [${config.phoneNumber}](tel:${config.phoneNumber})
+- **Phone:** [${config.phoneNumber}](tel:${config.phoneNumber.replace(/\s/g, "")})
 - **Email:** [${config.email}](mailto:${config.email})
 
 ## Highlight Skills
