@@ -1,7 +1,7 @@
 {
   "name": "Alireza",
   "lastName": "Sheikholmolouki",
-  "phoneNumber": "+989120563900",
+  "phoneNumber": "+358 50 343 9159",
   "email": "alireza.sheikholmolouki@gmail.com",
   "summary": "Solution-Driven Front-end Engineer with 7+ years of advanced programming and leveraging JavaScript to build creative web applications, websites, and outside-the-box features that drive business growth and improve UX.",
   "birthday": {
@@ -33,6 +33,16 @@
     "github": "https://github.com/Alireza29675"
   },
   "experiences": [
+    {
+      "title": "Senior Software Developer",
+      "company": "RELEX Solutions",
+      "span": {
+        "from": "Mar 2022",
+        "to": "Present"
+      },
+      "location": "Helsinki, Finland",
+      "description": ""
+    },
     {
       "title": "Front-end Engineer",
       "company": "Cafe Bazaar",
