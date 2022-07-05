@@ -12,7 +12,7 @@ Solution-Driven Front-end Engineer with 7+ years of advanced programming and lev
 </p>
 
 - **Location:** Helsinki, Finland
-- **Phone:** [+989120563900](tel:+989120563900)
+- **Phone:** [+358 50 343 9159](tel:+358 50 343 9159)
 - **Email:** [alireza.sheikholmolouki@gmail.com](mailto:alireza.sheikholmolouki@gmail.com)
 
 ## Highlight Skills
@@ -45,6 +45,11 @@ Solution-Driven Front-end Engineer with 7+ years of advanced programming and lev
 - Clay Sculpting _(intermediate)_
 
 ## Experiences
+
+### Senior Software Developer _at RELEX Solutions_
+Helsinki, Finland
+_Mar 2022 - Present_
+
 
 ### Front-end Engineer _at Cafe Bazaar_
 Tehran, Iran
