@@ -15,8 +15,8 @@
     "sass": "^1.56.1"
   },
   "scripts": {
-    "export": "echo \"Husky test\"",
-    "export:pdf": "echo \"No PDF export yet\"",
+    "export": "npm run export:pdf && npm run export:md",
+    "export:pdf": "node ./export/pdf.js",
     "export:md": "node ./export/md.js",
     "dev": "react-scripts start",
     "build": "react-scripts build",
@@ -41,6 +41,7 @@
   },
   "license": "BSD-3-Clause",
   "devDependencies": {
-    "husky": "^7.0.0"
+    "husky": "^7.0.0",
+    "puppeteer": "^19.2.2"
   }
 }

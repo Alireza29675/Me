@@ -18,31 +18,26 @@ Solution-Driven Front-end Engineer with 7+ years of advanced programming and lev
 ## Highlight Skills
 
 ### Programming
-- Modern Front-end Development Technologies (such as Webpack, SASS, Jest, Babel) _(advanced)_
-- Javascript _(advanced)_
-- Vue.js _(advanced)_
+- Typescript _(advanced)_
 - React.js _(advanced)_
+- Vue.js _(advanced)_
 - Node.js _(advanced)_
-- Typescript _(intermediate)_
+- Git _(advanced)_
 - Three.js _(intermediate)_
+- GraphQL _(intermediate)_
 - Redux _(intermediate)_
-- Git _(intermediate)_
 - Real-time systems (WebSocket) _(intermediate)_
 
-### Digital Arts
+### Design
 - Figma _(advanced)_
 - Adobe Photoshop _(advanced)_
 - Generative Arts _(advanced)_
-- Affinity Designer _(intermediate)_
 - Blender _(intermediate)_
 
-### Softskills
+### Soft Skills
+- Agile/Scrum _(advanced)_
 - Teaching _(advanced)_
 - Leadership _(intermediate)_
-- Agile/Scrum _(intermediate)_
-
-### Other
-- Clay Sculpting _(intermediate)_
 
 ## Experiences
 

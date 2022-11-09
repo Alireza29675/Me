@@ -211,15 +211,7 @@
   "skills": {
     "Programming": [
       {
-        "name": "Modern Front-end Development Technologies (such as Webpack, SASS, Jest, Babel)",
-        "level": "advanced"
-      },
-      {
-        "name": "Javascript",
-        "level": "advanced"
-      },
-      {
-        "name": "Vue.js",
+        "name": "Typescript",
         "level": "advanced"
       },
       {
@@ -227,15 +219,23 @@
         "level": "advanced"
       },
       {
+        "name": "Vue.js",
+        "level": "advanced"
+      },
+      {
         "name": "Node.js",
         "level": "advanced"
       },
       {
-        "name": "Typescript",
-        "level": "intermediate"
+        "name": "Git",
+        "level": "advanced"
       },
       {
         "name": "Three.js",
+        "level": "intermediate"
+      },
+      {
+        "name": "GraphQL",
         "level": "intermediate"
       },
       {
@@ -243,15 +243,11 @@
         "level": "intermediate"
       },
       {
-        "name": "Git",
-        "level": "intermediate"
-      },
-      {
         "name": "Real-time systems (WebSocket)",
         "level": "intermediate"
       }
     ],
-    "Digital Arts": [
+    "Design": [
       {
         "name": "Figma",
         "level": "advanced"
@@ -265,31 +261,21 @@
         "level": "advanced"
       },
       {
-        "name": "Affinity Designer",
-        "level": "intermediate"
-      },
-      {
         "name": "Blender",
         "level": "intermediate"
       }
     ],
-    "Softskills": [
+    "Soft Skills": [
+      {
+        "name": "Agile/Scrum",
+        "level": "advanced"
+      },
       {
         "name": "Teaching",
         "level": "advanced"
       },
       {
         "name": "Leadership",
-        "level": "intermediate"
-      },
-      {
-        "name": "Agile/Scrum",
-        "level": "intermediate"
-      }
-    ],
-    "Other": [
-      {
-        "name": "Clay Sculpting",
         "level": "intermediate"
       }
     ]

@@ -42,12 +42,10 @@
             &.intermediate {
                 @include stickBg(#aaa);
                 color: white;
-                text-shadow: 0 0 2px rgba(0, 0, 0, 0.8);
             }
             &.advanced {
                 @include stickBg(#777);
                 color: white;
-                text-shadow: 0 0 2px rgba(0, 0, 0, 0.8);
             }
 
         }

@@ -1,5 +1,9 @@
 @import './_variables';
 
+html {
+    -webkit-print-color-adjust: exact;
+}
+
 body {
     background: #eee;
     margin: 0;
