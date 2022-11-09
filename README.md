@@ -3,7 +3,7 @@
 
 # Alireza Sheikholmolouki
 
-Solution-Driven Front-end Engineer with 7+ years of advanced programming and leveraging JavaScript to build creative web applications, websites, and outside-the-box features that drive business growth and improve UX.
+Creative Software Developer with 7+ years of advanced programming who leverages JavaScript/Typescript to build applications and human-friendly experiences over the web. After 5+ years of teaching experience and 2+ years of mentoring teammates in mid to large-sized tech companies, I’m focusing on bringing meaningful value to the products I’m working on.
 
 <p align="left">
     <a href="https://linkedin.com/in/alireza-sheikholmolouki/" target="_new">LinkedIn</a> ●
