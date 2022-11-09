@@ -12,7 +12,7 @@ export default class Education extends React.Component {
             result.push(
                 <li key={`education-${i}`}>
                     <h3>{item.name} <span>({item.span.from} - {item.span.to})</span></h3>
-                    <strong>{item.degree}</strong>
+                    <strong>{item.degree} of {item.field}</strong>
                     <em>{item.location.city}, {item.location.country}</em>
                     {item.description && <p>{item.description}</p>}
                 </li>

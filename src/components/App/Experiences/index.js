@@ -23,8 +23,10 @@ export default class Experiences extends React.Component {
 
     render () {
 
-        return (<section className="Experiences">
-            <h2>Experiences</h2>
+        return (<section className="experiences">
+            <h2>Experiences <small>
+                (Find descriptions in <a href={resume.links.linkedin} target="_blank">LinkedIn</a>)
+            </small></h2>
             <ol>
                 {this.experiences}
             </ol>

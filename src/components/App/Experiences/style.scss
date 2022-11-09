@@ -1,1 +1,10 @@
 @import '../../../stylesheets/variables';
+
+.experiences {
+  h2 {
+    small {
+      font-size: 0.7em;
+      font-weight: normal;
+    }
+  }
+}
