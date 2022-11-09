@@ -82,7 +82,7 @@ _3rd Fanavard National Contest of Sharif University_
 
 ### Shiraz University of Science and Technology
 
-Bachelor Degree of **Software Engineering**
+Bachelor Degree of **Computer Science**
 
 Shiraz, Iran _(2017 - 2021)_
 
