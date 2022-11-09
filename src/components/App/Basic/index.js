@@ -28,8 +28,8 @@ export default class Basic extends React.Component {
                     <span><b>Phone: </b><a target="_blank" rel="noopener noreferrer" href={`tel: ${resume.phoneNumber}`}>{resume.phoneNumber}</a></span>
                     <span><b>Email: </b><a target="_blank" rel="noopener noreferrer" href={`mailto: ${resume.email}`}>{resume.email}</a></span>
                     <span><b>Date of Birth: </b>{resume.birthday.year}/{resume.birthday.month}/{resume.birthday.day}</span>
-                    <span><b>Linkedin: </b><a target="_blank" rel="noopener noreferrer" href={resume.links.linkedin}>{resume.links.linkedin}</a></span>
-                    <span><b>GitHub: </b><a target="_blank" rel="noopener noreferrer" href={resume.links.github}>{resume.links.github}</a></span>
+                    <span><b>LinkedIn: </b><a target="_blank" rel="noopener noreferrer" href={resume.links.linkedin}>{resume.links.linkedin}</a></span>
+                    <span><b>Github: </b><a target="_blank" rel="noopener noreferrer" href={resume.links.github}>{resume.links.github}</a></span>
                 </div>
             </header>
         )
